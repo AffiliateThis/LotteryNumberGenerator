@@ -1,0 +1,14 @@
+html,
+body {
+  font-family: sans-serif;
+  background-color: rgb(167, 42, 42);
+}
+#output {
+  /* The command I know best. */
+  text-transform: uppercase;
+  color: #fdf6f0;
+  font-size: 6em;
+  font-weight: bold;
+  text-align: left;
+  text-shadow: 0.08em 0em #940f08;
+}
